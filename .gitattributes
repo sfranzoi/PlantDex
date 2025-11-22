@@ -1,0 +1,44 @@
+# Normalize all text files to LF line endings
+* text=auto eol=lf
+
+# Windows batch and PowerShell files should use CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+
+# Python files
+*.py text eol=lf
+
+# C/C++ source files for 3DS dev
+*.c  text eol=lf
+*.h  text eol=lf
+*.cpp text eol=lf
+*.hpp text eol=lf
+*.s   text eol=lf
+
+# JSON / YAML
+*.json text eol=lf
+*.yml  text eol=lf
+*.yaml text eol=lf
+
+# Treat models, compiled code, 3DS assets as binary
+*.o binary
+*.a binary
+*.elf binary
+*.smdh binary
+*.3dsx binary
+*.bin binary
+*.cia binary
+*.tik binary
+*.dat binary
+
+# Image files should be treated as binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.bmp binary
+
+# Prevent Git from trying to diff or merge large binary files
+*.bin merge=binary
+*.dat merge=binary
