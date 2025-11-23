@@ -17,6 +17,7 @@ This project is an exploration in the interconnectedness between technology and 
 - Frontend application versions for other potential systems/terminals such as smartphones, old flip phones, DIY systems, etc.
 - "Field Kit" hardware bundles
 - *Solar-powered Raspberry Pi (or otherwise) computational nodes or build-on expansions for offline & remote usage*
+  - Expand concept to interactive terminal displays for other useful offline programs such as within the Internet-in-a-Box concept (https://internet-in-a-box.org/)
   
 ## 🌱 **CONTRIBUTIONS**
 > [!IMPORTANT]
