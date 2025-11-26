@@ -1,0 +1,53 @@
+{
+  "textStyles": [
+    {
+      "name": "PlantDex/Heading",
+      "fontFamily": "Red Hat Display",
+      "fontSize": 32,
+      "fontWeight": 700,
+      "lineHeight": 36
+    },
+    {
+      "name": "PlantDex/Subheading",
+      "fontFamily": "Red Hat Display",
+      "fontSize": 24,
+      "fontWeight": 600,
+      "lineHeight": 28
+    },
+    {
+      "name": "PlantDex/Body",
+      "fontFamily": "Nunito",
+      "fontSize": 18,
+      "fontWeight": 400,
+      "lineHeight": 22
+    },
+    {
+      "name": "PlantDex/Small",
+      "fontFamily": "Nunito",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 18
+    },
+    {
+      "name": "PlantDex/SystemMono",
+      "fontFamily": "Share Tech Mono",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "lineHeight": 18
+    },
+    {
+      "name": "PlantDex/LoreHeader",
+      "fontFamily": "Cinzel",
+      "fontSize": 28,
+      "fontWeight": 700,
+      "lineHeight": 32
+    },
+    {
+      "name": "PlantDex/HerbalSub",
+      "fontFamily": "Cormorant Garamond",
+      "fontSize": 20,
+      "fontWeight": 600,
+      "lineHeight": 24
+    }
+  ]
+}
